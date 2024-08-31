@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/matthieu/Documents/Github/mlflow-test/notebooks/mlruns/797413242358222101/455d05caad7e4d77b099530045564623/artifacts
+end_time: 1724870042313
+entry_point_name: ''
+experiment_id: '797413242358222101'
+lifecycle_stage: active
+run_id: 455d05caad7e4d77b099530045564623
+run_name: upbeat-stag-559
+run_uuid: 455d05caad7e4d77b099530045564623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724870040890
+status: 3
+tags: []
+user_id: matthieu

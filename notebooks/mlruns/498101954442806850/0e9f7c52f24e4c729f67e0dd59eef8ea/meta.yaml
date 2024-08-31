@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/matthieu/Documents/Github/mlflow-test/notebooks/mlruns/498101954442806850/0e9f7c52f24e4c729f67e0dd59eef8ea/artifacts
+end_time: 1724854850145
+entry_point_name: ''
+experiment_id: '498101954442806850'
+lifecycle_stage: active
+run_id: 0e9f7c52f24e4c729f67e0dd59eef8ea
+run_name: calm-cow-372
+run_uuid: 0e9f7c52f24e4c729f67e0dd59eef8ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724854847770
+status: 3
+tags: []
+user_id: matthieu

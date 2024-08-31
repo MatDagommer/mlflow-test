@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/matthieu/Documents/Github/mlflow-test/notebooks/mlruns/498101954442806850/a5b952ce7317441d946c3573d5d00ade/artifacts
+end_time: 1724854981436
+entry_point_name: ''
+experiment_id: '498101954442806850'
+lifecycle_stage: active
+run_id: a5b952ce7317441d946c3573d5d00ade
+run_name: invincible-shoat-1
+run_uuid: a5b952ce7317441d946c3573d5d00ade
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724854980184
+status: 3
+tags: []
+user_id: matthieu

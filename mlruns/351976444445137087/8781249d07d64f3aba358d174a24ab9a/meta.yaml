@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/351976444445137087/8781249d07d64f3aba358d174a24ab9a/artifacts
+end_time: 1724870398479
+entry_point_name: ''
+experiment_id: '351976444445137087'
+lifecycle_stage: active
+run_id: 8781249d07d64f3aba358d174a24ab9a
+run_name: melodic-cub-558
+run_uuid: 8781249d07d64f3aba358d174a24ab9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724870397087
+status: 3
+tags: []
+user_id: matthieu
